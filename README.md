@@ -13,3 +13,6 @@
 本資料庫內容來自CBETA 2011 光碟之「XML版」  
 歡迎自由流通、非營利使用。  
 最新及詳盡的資料請到 http://www.cbeta.org  
+---  
+* 因為cbeta2011other.cor有102MB。而GitHub不能上載超過100MB的檔案，所以cbeta2011other.cor無法上載！請到智邦主機下載  
+---  
